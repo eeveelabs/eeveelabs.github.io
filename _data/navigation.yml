@@ -1,12 +1,12 @@
-- name: Products
-  link: /
-  new_window: false
-  highlight: true
-- name: About
+# - name: Products
+#   link: /
+#   new_window: false
+#   highlight: true
+- name: About Us
   link: /about/
   new_window: false
   highlight: false
-- name: Contact
-  link: /contact/
-  new_window: false
-  highlight: false
+# - name: Contact
+#   # link: /contact/
+#   # new_window: false
+#   # highlight: false
